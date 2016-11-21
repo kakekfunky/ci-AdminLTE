@@ -296,7 +296,7 @@ $this->load->view('template/sidebar');
                         <span class="direct-chat-timestamp pull-right">23 Jan 2:00 pm</span>
                       </div>
                       <!-- /.direct-chat-info -->
-                      <img class="direct-chat-img" src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user1-128x128.jpg') ?>" alt="message user image"><!-- /.direct-chat-img -->
+                      <img class="direct-chat-img" src="<?php echo base_url('assets/dist/img/user1-128x128.jpg') ?>" alt="message user image"><!-- /.direct-chat-img -->
 
                       <div class="direct-chat-text">
                         Is this template really for free? That's unbelievable!
@@ -312,7 +312,7 @@ $this->load->view('template/sidebar');
                         <span class="direct-chat-timestamp pull-left">23 Jan 2:05 pm</span>
                       </div>
                       <!-- /.direct-chat-info -->
-                      <img class="direct-chat-img" src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user3-128x128.jpg') ?>" alt="message user image"><!-- /.direct-chat-img -->
+                      <img class="direct-chat-img" src="<?php echo base_url('assets/dist/img/user3-128x128.jpg') ?>" alt="message user image"><!-- /.direct-chat-img -->
                       <div class="direct-chat-text">
                         You better believe it!
                       </div>
@@ -327,7 +327,7 @@ $this->load->view('template/sidebar');
                         <span class="direct-chat-timestamp pull-right">23 Jan 5:37 pm</span>
                       </div>
                       <!-- /.direct-chat-info -->
-                      <img class="direct-chat-img" src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user1-128x128.jpg') ?>" alt="message user image"><!-- /.direct-chat-img -->
+                      <img class="direct-chat-img" src="<?php echo base_url('assets/dist/img/user1-128x128.jpg') ?>" alt="message user image"><!-- /.direct-chat-img -->
                       <div class="direct-chat-text">
                         Working with AdminLTE on a great new app! Wanna join?
                       </div>
@@ -342,7 +342,7 @@ $this->load->view('template/sidebar');
                         <span class="direct-chat-timestamp pull-left">23 Jan 6:10 pm</span>
                       </div>
                       <!-- /.direct-chat-info -->
-                      <img class="direct-chat-img" src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user3-128x128.jpg') ?>" alt="message user image"><!-- /.direct-chat-img -->
+                      <img class="direct-chat-img" src="<?php echo base_url('assets/dist/img/user3-128x128.jpg') ?>" alt="message user image"><!-- /.direct-chat-img -->
                       <div class="direct-chat-text">
                         I would love to.
                       </div>
@@ -358,7 +358,7 @@ $this->load->view('template/sidebar');
                     <ul class="contacts-list">
                       <li>
                         <a href="#">
-                          <img class="contacts-list-img" src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user1-128x128.jpg') ?>" alt="User Image">
+                          <img class="contacts-list-img" src="<?php echo base_url('assets/dist/img/user1-128x128.jpg') ?>" alt="User Image">
 
                           <div class="contacts-list-info">
                                 <span class="contacts-list-name">
@@ -373,7 +373,7 @@ $this->load->view('template/sidebar');
                       <!-- End Contact Item -->
                       <li>
                         <a href="#">
-                          <img class="contacts-list-img" src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user7-128x128.jpg') ?>" alt="User Image">
+                          <img class="contacts-list-img" src="<?php echo base_url('assets/dist/img/user7-128x128.jpg') ?>" alt="User Image">
 
                           <div class="contacts-list-info">
                                 <span class="contacts-list-name">
@@ -388,7 +388,7 @@ $this->load->view('template/sidebar');
                       <!-- End Contact Item -->
                       <li>
                         <a href="#">
-                          <img class="contacts-list-img" src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user3-128x128.jpg') ?>" alt="User Image">
+                          <img class="contacts-list-img" src="<?php echo base_url('assets/dist/img/user3-128x128.jpg') ?>" alt="User Image">
 
                           <div class="contacts-list-info">
                                 <span class="contacts-list-name">
@@ -403,7 +403,7 @@ $this->load->view('template/sidebar');
                       <!-- End Contact Item -->
                       <li>
                         <a href="#">
-                          <img class="contacts-list-img" src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user5-128x128.jpg') ?>" alt="User Image">
+                          <img class="contacts-list-img" src="<?php echo base_url('assets/dist/img/user5-128x128.jpg') ?>" alt="User Image">
 
                           <div class="contacts-list-info">
                                 <span class="contacts-list-name">
@@ -418,7 +418,7 @@ $this->load->view('template/sidebar');
                       <!-- End Contact Item -->
                       <li>
                         <a href="#">
-                          <img class="contacts-list-img" src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user6-128x128.jpg') ?>" alt="User Image">
+                          <img class="contacts-list-img" src="<?php echo base_url('assets/dist/img/user6-128x128.jpg') ?>" alt="User Image">
 
                           <div class="contacts-list-info">
                                 <span class="contacts-list-name">
@@ -433,7 +433,7 @@ $this->load->view('template/sidebar');
                       <!-- End Contact Item -->
                       <li>
                         <a href="#">
-                          <img class="contacts-list-img" src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user8-128x128.jpg') ?>" alt="User Image">
+                          <img class="contacts-list-img" src="<?php echo base_url('assets/dist/img/user8-128x128.jpg') ?>" alt="User Image">
 
                           <div class="contacts-list-info">
                                 <span class="contacts-list-name">
@@ -486,42 +486,42 @@ $this->load->view('template/sidebar');
                 <div class="box-body no-padding">
                   <ul class="users-list clearfix">
                     <li>
-                      <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user1-128x128.jpg') ?>" alt="User Image">
+                      <img src="<?php echo base_url('assets/dist/img/user1-128x128.jpg') ?>" alt="User Image">
                       <a class="users-list-name" href="#">Alexander Pierce</a>
                       <span class="users-list-date">Today</span>
                     </li>
                     <li>
-                      <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user8-128x128.jpg') ?>" alt="User Image">
+                      <img src="<?php echo base_url('assets/dist/img/user8-128x128.jpg') ?>" alt="User Image">
                       <a class="users-list-name" href="#">Norman</a>
                       <span class="users-list-date">Yesterday</span>
                     </li>
                     <li>
-                      <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user7-128x128.jpg') ?>" alt="User Image">
+                      <img src="<?php echo base_url('assets/dist/img/user7-128x128.jpg') ?>" alt="User Image">
                       <a class="users-list-name" href="#">Jane</a>
                       <span class="users-list-date">12 Jan</span>
                     </li>
                     <li>
-                      <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user6-128x128.jpg') ?>" alt="User Image">
+                      <img src="<?php echo base_url('assets/dist/img/user6-128x128.jpg') ?>" alt="User Image">
                       <a class="users-list-name" href="#">John</a>
                       <span class="users-list-date">12 Jan</span>
                     </li>
                     <li>
-                      <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user2-160x160.jpg') ?>" alt="User Image">
+                      <img src="<?php echo base_url('assets/dist/img/user2-160x160.jpg') ?>" alt="User Image">
                       <a class="users-list-name" href="#">Alexander</a>
                       <span class="users-list-date">13 Jan</span>
                     </li>
                     <li>
-                      <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user5-128x128.jpg') ?>" alt="User Image">
+                      <img src="<?php echo base_url('assets/dist/img/user5-128x128.jpg') ?>" alt="User Image">
                       <a class="users-list-name" href="#">Sarah</a>
                       <span class="users-list-date">14 Jan</span>
                     </li>
                     <li>
-                      <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user4-128x128.jpg') ?>" alt="User Image">
+                      <img src="<?php echo base_url('assets/dist/img/user4-128x128.jpg') ?>" alt="User Image">
                       <a class="users-list-name" href="#">Nora</a>
                       <span class="users-list-date">15 Jan</span>
                     </li>
                     <li>
-                      <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/user3-128x128.jpg') ?>" alt="User Image">
+                      <img src="<?php echo base_url('assets/dist/img/user3-128x128.jpg') ?>" alt="User Image">
                       <a class="users-list-name" href="#">Nadia</a>
                       <span class="users-list-date">15 Jan</span>
                     </li>
@@ -566,7 +566,7 @@ $this->load->view('template/sidebar');
                   <tbody>
                   <tr>
 
-                    <td><a href="<?php echo base_url('assets/AdminLTE-2.3.7/pages/examples/invoice.html') ?>">OR9842</a></td>
+                    <td><a href="<?php echo base_url('assets/pages/examples/invoice.html') ?>">OR9842</a></td>
                     <td>Call of Duty IV</td>
                     <td><span class="label label-success">Shipped</span></td>
                     <td>
@@ -574,7 +574,7 @@ $this->load->view('template/sidebar');
                     </td>
                   </tr>
                   <tr>
-                    <td><a href="<?php echo base_url('assets/AdminLTE-2.3.7/pages/examples/invoice.html') ?>">OR1848</a></td>
+                    <td><a href="<?php echo base_url('assets/pages/examples/invoice.html') ?>">OR1848</a></td>
                     <td>Samsung Smart TV</td>
                     <td><span class="label label-warning">Pending</span></td>
                     <td>
@@ -582,7 +582,7 @@ $this->load->view('template/sidebar');
                     </td>
                   </tr>
                   <tr>
-                    <td><a href="<?php echo base_url('assets/AdminLTE-2.3.7/pages/examples/invoice.html') ?>">OR7429</a></td>
+                    <td><a href="<?php echo base_url('assets/pages/examples/invoice.html') ?>">OR7429</a></td>
                     <td>iPhone 6 Plus</td>
                     <td><span class="label label-danger">Delivered</span></td>
                     <td>
@@ -590,7 +590,7 @@ $this->load->view('template/sidebar');
                     </td>
                   </tr>
                   <tr>
-                    <td><a href="<?php echo base_url('assets/AdminLTE-2.3.7/pages/examples/invoice.html') ?>">OR7429</a></td>
+                    <td><a href="<?php echo base_url('assets/pages/examples/invoice.html') ?>">OR7429</a></td>
                     <td>Samsung Smart TV</td>
                     <td><span class="label label-info">Processing</span></td>
                     <td>
@@ -598,7 +598,7 @@ $this->load->view('template/sidebar');
                     </td>
                   </tr>
                   <tr>
-                    <td><a href="<?php echo base_url('assets/AdminLTE-2.3.7/pages/examples/invoice.html') ?>">OR1848</a></td>
+                    <td><a href="<?php echo base_url('assets/pages/examples/invoice.html') ?>">OR1848</a></td>
                     <td>Samsung Smart TV</td>
                     <td><span class="label label-warning">Pending</span></td>
                     <td>
@@ -606,7 +606,7 @@ $this->load->view('template/sidebar');
                     </td>
                   </tr>
                   <tr>
-                    <td><a href="<?php echo base_url('assets/AdminLTE-2.3.7/pages/examples/invoice.html') ?>">OR7429</a></td>
+                    <td><a href="<?php echo base_url('assets/pages/examples/invoice.html') ?>">OR7429</a></td>
                     <td>iPhone 6 Plus</td>
                     <td><span class="label label-danger">Delivered</span></td>
                     <td>
@@ -614,7 +614,7 @@ $this->load->view('template/sidebar');
                     </td>
                   </tr>
                   <tr>
-                    <td><a href="<?php echo base_url('assets/AdminLTE-2.3.7/pages/examples/invoice.html') ?>">OR9842</a></td>
+                    <td><a href="<?php echo base_url('assets/pages/examples/invoice.html') ?>">OR9842</a></td>
                     <td>Call of Duty IV</td>
                     <td><span class="label label-success">Shipped</span></td>
                     <td>
@@ -773,7 +773,7 @@ $this->load->view('template/sidebar');
               <ul class="products-list product-list-in-box">
                 <li class="item">
                   <div class="product-img">
-                    <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/default-50x50.gif') ?>" alt="Product Image">
+                    <img src="<?php echo base_url('assets/dist/img/default-50x50.gif') ?>" alt="Product Image">
                   </div>
                   <div class="product-info">
                     <a href="javascript:void(0)" class="product-title">Samsung TV
@@ -786,7 +786,7 @@ $this->load->view('template/sidebar');
                 <!-- /.item -->
                 <li class="item">
                   <div class="product-img">
-                    <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/default-50x50.gif') ?>" alt="Product Image">
+                    <img src="<?php echo base_url('assets/dist/img/default-50x50.gif') ?>" alt="Product Image">
                   </div>
                   <div class="product-info">
                     <a href="javascript:void(0)" class="product-title">Bicycle
@@ -799,7 +799,7 @@ $this->load->view('template/sidebar');
                 <!-- /.item -->
                 <li class="item">
                   <div class="product-img">
-                    <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/default-50x50.gif') ?>" alt="Product Image">
+                    <img src="<?php echo base_url('assets/dist/img/default-50x50.gif') ?>" alt="Product Image">
                   </div>
                   <div class="product-info">
                     <a href="javascript:void(0)" class="product-title">Xbox One <span class="label label-danger pull-right">$350</span></a>
@@ -811,7 +811,7 @@ $this->load->view('template/sidebar');
                 <!-- /.item -->
                 <li class="item">
                   <div class="product-img">
-                    <img src="<?php echo base_url('assets/AdminLTE-2.3.7/dist/img/default-50x50.gif') ?>" alt="Product Image">
+                    <img src="<?php echo base_url('assets/dist/img/default-50x50.gif') ?>" alt="Product Image">
                   </div>
                   <div class="product-info">
                     <a href="javascript:void(0)" class="product-title">PlayStation 4
