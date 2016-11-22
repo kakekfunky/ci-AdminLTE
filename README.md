@@ -26,3 +26,4 @@ $config['base_url'] = http://localhost/dev/codeigniter/
 | Bootstrap | 3.3.6 | [Website](http://getbootstrap.com) | [Github](https://github.com/twbs/bootstrap)
 | jQuery | 2.2.3 | [Website](http://jquery.com) | [Github](https://github.com/jquery/jquery)
 | Font Awesome | 4.7.0 | [Website](http://fortawesome.github.io/Font-Awesome/) | [Github](https://github.com/FortAwesome/Font-Awesome)
+| Ion Auth | 2 | [Website](http://benedmunds.com/ion_auth/) | [Github](http://github.com/benedmunds/CodeIgniter-Ion-Auth/zipball/2)
